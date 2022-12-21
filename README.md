@@ -7,9 +7,10 @@ Programming language:
 - C#
 
 Downloads:
-- Download the cygwin installer from https://www.cygwin.com/
+- Cygwin installer from https://www.cygwin.com/
 - Jenkins: https://jenkins.io/download/
 - Java 11(Jenkins requires java 11): https://www.oracle.com/ca-en/java/technologies/javase/jdk11-archive-downloads.html
+- NUnit Console: https://nunit.org/download/
 
 
 Links:

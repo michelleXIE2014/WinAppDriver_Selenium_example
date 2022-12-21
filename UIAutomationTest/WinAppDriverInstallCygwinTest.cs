@@ -159,20 +159,19 @@ namespace Tests
             Assert.IsNotNull(driver.FindElementsByName("Cygwin Setup - Choose Installation Directory"));
             ScreenShot(driver, currentEnv);
             action.SendKeys(InstallPath).Build().Perform();
-            action.SendKeys(Keys.Tab).Build().Perform();
-            action.SendKeys(Keys.Tab).Build().Perform();
+           
             action.SendKeys(Keys.Alt + "N").Build().Perform();
 
             Assert.IsNotNull(driver.FindElementsByName("Cygwin Setup - Select Local Package Directory"));
             ScreenShot(driver, currentEnv);
             Thread.Sleep(10000);
             action.SendKeys(InstallPath).Build().Perform();
-            action.SendKeys(Keys.Tab).Build().Perform();
+            
             action.SendKeys(Keys.Alt + "N").Build().Perform();
 
             Assert.IsNotNull(driver.FindElementsByName("Cygwin Setup - Select Connection Type"));
             ScreenShot(driver, currentEnv);
-            action.SendKeys(Keys.Tab).Build().Perform();
+           
             action.SendKeys(Keys.Alt + "N").Build().Perform();
 
             Assert.IsNotNull(driver.FindElementsByName("Cygwin Setup - Choose Download Site(s)"));
@@ -189,9 +188,7 @@ namespace Tests
 
             Assert.IsNotNull(driver.FindElementsByName("Cygwin Setup - Installation Status and Create Icons"));
             ScreenShot(driver, currentEnv);
-            action.SendKeys(Keys.Tab).Build().Perform();
-            action.SendKeys(Keys.Tab).Build().Perform();
-            action.SendKeys(Keys.Tab).Build().Perform();
+           
             driver.FindElementByName("Finish").Click();
             action.Release();
 
