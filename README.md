@@ -11,11 +11,12 @@ Downloads:
 - Jenkins: https://jenkins.io/download/
 - Java 11(Jenkins requires java 11): https://www.oracle.com/ca-en/java/technologies/javase/jdk11-archive-downloads.html
 - NUnit Console: https://nunit.org/download/
+- UISpy: https://github.com/2gis/Winium.Cruciatus/tree/master/tools/UISpy
 
 
 Links:
-- https://github.com/microsoft/WinAppDriver
-- https://www.selenium.dev/
+- WinAppDriver: https://github.com/microsoft/WinAppDriver
+- Selenium: https://www.selenium.dev/
 
 
 To run the tests in Jenkins, you need to
