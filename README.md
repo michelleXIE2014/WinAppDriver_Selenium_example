@@ -19,5 +19,5 @@ To run the tests in Jenkins, you need to
 and
 
 - Start the WinAppDriver on Windows by running the following command line in cmd by administrator   
-```cd "c:\Program Files\"Windows Application Driver"```
+```cd "c:\Program Files\"Windows Application Driver"```   
 ```WinAppDriver.exe```
