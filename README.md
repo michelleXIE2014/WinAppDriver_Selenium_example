@@ -1,9 +1,16 @@
 # WinAppDriver_Selenium_example
 
+Platform:
+- Windows
+
+Programming language:
+- C#
+
 Downloads:
 - Download the cygwin installer from https://www.cygwin.com/
 - Jenkins: https://jenkins.io/download/
 - Java 11(Jenkins requires java 11): https://www.oracle.com/ca-en/java/technologies/javase/jdk11-archive-downloads.html
+
 
 Links:
 - https://github.com/microsoft/WinAppDriver
