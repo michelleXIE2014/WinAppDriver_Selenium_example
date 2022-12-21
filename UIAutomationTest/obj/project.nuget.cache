@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "eT1zwJnusC42r/J8LBGgiAYbr3jNz4qWXb9aZ7FgP8WUUxvMbBXH0aF+DK9mGPdFtJbOY5MjwYpVEXPCcwu7rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mxie\\source\\repos\\WinAppDriver_Selenium_example\\UIAutomationTest\\UIAutomationTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mxie\\.nuget\\packages\\appium.webdriver\\4.4.0\\appium.webdriver.4.4.0.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\awssdk.core\\3.7.103.3\\awssdk.core.3.7.103.3.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\awssdk.ec2\\3.7.114\\awssdk.ec2.3.7.114.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\microsoft.codecoverage\\17.5.0-preview-20221003-04\\microsoft.codecoverage.17.5.0-preview-20221003-04.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0-preview-20221003-04\\microsoft.net.test.sdk.17.5.0-preview-20221003-04.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\msbuild.nunit\\1.0.2\\msbuild.nunit.1.0.2.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\nunit.console\\3.16.0\\nunit.console.3.16.0.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\nunit.consolerunner\\3.16.0\\nunit.consolerunner.3.16.0.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\nunit.runners\\3.12.0\\nunit.runners.3.12.0.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\nunit3testadapter\\4.3.1\\nunit3testadapter.4.3.1.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\mxie\\.nuget\\packages\\ssh.net\\2020.0.2\\ssh.net.2020.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
