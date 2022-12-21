@@ -12,12 +12,12 @@ Links:
 
 To run the tests in Jenkins, you need to
 
-- Start jenkins on Windows by running the following command line in cmd by administrator
+- Start jenkins on Windows by running the following command line in cmd by administrator   
 ```cd "c:\Program Files\Jenkins"```       
 ```java -Dhudson.util.ProcessTree.disable=true -jar jenkins.war --httpListenAddress=127.0.0.1 --httpPort=8088 --enable-future-java```  
 
 and
 
-- Start the WinAppDriver on Windows by running the following command line in cmd by administrator
+- Start the WinAppDriver on Windows by running the following command line in cmd by administrator   
 ```cd "c:\Program Files\"Windows Application Driver"```
 ```WinAppDriver.exe```
